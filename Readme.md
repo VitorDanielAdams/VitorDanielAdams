@@ -5,8 +5,6 @@
 
 - 🤝 I’m looking for help on **any project**
 
-- ⚡ Fun fact **I'm enjoying programming**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/vitor-adams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vitor-adams" height="30" width="40" /></a>
