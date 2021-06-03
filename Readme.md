@@ -1,11 +1,11 @@
 <h1 align="center">Hello 👋 I'm Vitor</h1>
 <h3 align="righ">I'm learning and developing some projects to learn some technologies and develop myself.</h3>
 
+![](https://media.giphy.com/media/BlWF2vzpIPB0A/giphy.gif)
+
 - 📄 I’m currently learning **HTML, CSS , JAVASCRIP, SQL, C, ANGULAR**
 
 - 🤝 I’m looking for help on **any project**
-
-![](https://i.gifer.com/X866.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
