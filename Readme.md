@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋 I'm Vitor</h1>
+<h1 align="center">Hello 🤙 I'm Vitor</h1>
 
 ![](https://media.giphy.com/media/mQG644PY8O7rG/giphy.gif)
 
