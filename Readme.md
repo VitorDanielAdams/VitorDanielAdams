@@ -4,7 +4,7 @@
 
 <h2 align="left">- I'm developing some projects to learn some technologies and develop myself.</h3>
 
-- 📄 I’m currently learning **HTML, CSS , JAVASCRIP, SQL, C, ANGULAR**
+- 📄 I’m currently learning **HTML, CSS , JAVASCRIP, MySQL, C, PHP, ANGULAR**
 
 - 🤝 I’m looking for help on **any project**
 
