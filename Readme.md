@@ -2,7 +2,7 @@
 
 ![](https://media.giphy.com/media/mQG644PY8O7rG/giphy.gif)
 
-<h2 align="left">- I'm developing some projects to learn some technologies and develop myself.</h3>
+<h2 align="left">- I'm developing projects to learn some technologies and develop myself.</h3>
 
 - 📄 I’m currently learning **HTML, CSS , JAVASCRIP, MySQL, C, PHP, ANGULAR**
 
