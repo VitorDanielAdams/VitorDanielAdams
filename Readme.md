@@ -1,6 +1,6 @@
 <h1 align="center">Hello 🤙 I'm Vitor</h1>
 
-![](https://media.giphy.com/media/mQG644PY8O7rG/giphy.gif)
+<span align="center">![](https://media.giphy.com/media/mQG644PY8O7rG/giphy.gif)</span>
 
 <h2 align="left">- I'm developing projects to learn some technologies and develop myself.</h3>
 
