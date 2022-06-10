@@ -1,8 +1,8 @@
 <h1 align="center">Hello 🤙 I'm Vitor</h1>
 
-  ![](https://media.giphy.com/media/mQG644PY8O7rG/giphy.gif)
-
 <h2 align="left">- I'm developing projects to learn some technologies and develop myself.</h3>
+
+  ![](https://media.giphy.com/media/mQG644PY8O7rG/giphy.gif)
 
 - 📄 I’m currently learning **HTML, CSS , JAVASCRIP, ReactJS, MySQL, PostgreSQL, C, PHP, JAVA, PYTHON**
 
