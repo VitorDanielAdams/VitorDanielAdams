@@ -46,6 +46,6 @@ I am currently working as an intern at PTI.
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/vitor-adams" target="blank"><a href="https://www.linkedin.com/in/thyago-de-oliveira-perez-0ab20720b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://wa.me/qr/YOWILR3V5B4XK1" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="https://wa.me/qr/YOWILR3V5B4XK1"/></a>
+<a href="https://wa.me/qr/YOWILR3V5B4XK1" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"/></a>
 <a href="https://instagram.com/vitor.adams" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
