@@ -10,7 +10,7 @@
 
 <h3 align="left">Work</h3>
 
-I am currently working as an intern at PTI.
+I am currently working as a Jr. Developer in Intelltech.
 
 <h3 align="left">Languages and tools I'm improving:</h3>
 <p align="left"> 
