@@ -4,7 +4,7 @@
 
 <h2 align="left">- I'm developing projects to learn some technologies and develop myself.</h3>
 
-- 📄 I’m currently learning **JAVASCRIP, ReactJS, PostgreSQL, JAVA, SPRINGBOOT, PYTHON**
+- 📄 I’m currently learning **JavaScript, TypeScript, ReactJS, PostgreSQL, JAVA, SPRINGBOOT, PYTHON, C#**
 
 - 🤝 I’m looking for help on **any project**
 
