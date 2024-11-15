@@ -10,7 +10,7 @@
 
 <h3 align="left">Work</h3>
 
-I am currently working as a Jr. Developer in Intelltech.
+I am currently working as .NET Developer in TGLAB.
 
 <h3 align="left">Languages and tools I'm improving:</h3>
 <p align="left"> 
